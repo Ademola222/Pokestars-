@@ -1,0 +1,7 @@
+{
+    "developerGuild": "987778121451319357",
+    "activityInterval": 5,
+    "botMainColor": "0xff5454",
+    "botErrorColor": "0xdb3535",
+    "database": "mongodb+srv://Ademola5569:Ademola5569@cluster0.6p66bth.mongodb.net/?retryWrites=true&w=majority"
+}
